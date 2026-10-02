@@ -1,5 +1,7 @@
 # Peak Answer MCP
 
+[![M8ven verified](https://m8ven.ai/badge/mcp/peakanswer-peak-answer-mcp-5yn9ts?variant=verified)](https://m8ven.ai/mcp/peakanswer-peak-answer-mcp-5yn9ts?s=readme)
+
 The remote MCP server for [Peak Answer](https://peakanswer.com): whether AI search engines
 recommend a brand, which buying questions competitors win instead, and the technical and content
 reasons an engine cannot quote a site.
